@@ -1,0 +1,10 @@
+EXAM: Test Case Writing and Issue Tracking (11.11.2018)  
+
+I. TEST CASE WRITING
+• You need to write at least 25 test cases in the given "Test-Case-Management" excel template. 
+• Every Use case of the exam's SRS has to have AT LEAST 2 TEST CASES, specially written for it. 
+	• Use case 4 has to have AT LEAST 6 TEST CASES, specially written for it.
+
+II. ISSUE TRACKING
+• There are 5 SPECIAL ISSUES, which need to be found and to be described in the given "Issue-Tracker" excel template. 
+	• There are even more bugs in the project, so you can feel free to look around and to report as many as possible.

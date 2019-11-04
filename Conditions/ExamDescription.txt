@@ -1,0 +1,14 @@
+EXAM: Test Case Writing and Issue Tracking (11.11.2018)  
+
+I. EXAM RESOURCES
+• The project, which has to be tested, is located at: https://qafundexam.azurewebsites.net/.
+	• There is back-up copy at: https://dev.platform.softuni.bg:52/.
+
+II. EXAM INFORMATION
+• You are given templates for test case writing and for issue tracking.
+• You are given a software requirements specification (SRS).
+• You are allowed to use any resources you have - like Internet, software, existing code.
+
+III. EXAM PROHIBITION
+• You are not allowed to get help from other people - Skype, ICQ, FB, emails, talks, phone calls, etc. are forbidden.
+
